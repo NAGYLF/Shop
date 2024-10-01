@@ -30,3 +30,4 @@ C:\Users\Tanulo\Git\ProductApi\ProductApi\obj\Debug\net8.0\refint\ProductApi.dll
 C:\Users\Tanulo\Git\ProductApi\ProductApi\obj\Debug\net8.0\ProductApi.pdb
 C:\Users\Tanulo\Git\ProductApi\ProductApi\obj\Debug\net8.0\ProductApi.genruntimeconfig.cache
 C:\Users\Tanulo\Git\ProductApi\ProductApi\obj\Debug\net8.0\ref\ProductApi.dll
+C:\Users\Tanulo\Git\ProductApi\ProductApi\obj\Debug\net8.0\ProductApi.sourcelink.json
